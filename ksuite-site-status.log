@@ -2,22 +2,16 @@ Checking ksuite-site...
 Vercel CLI 44.7.3
 Retrieving project…
 Fetching deployments in ksuite-projects
-> Deployments for ksuite-projects/ksuite-site [132ms]
+> Deployments for ksuite-projects/ksuite-site [110ms]
 
   Age     Deployment                                                   Status      Environment     Duration     Username       
-  14m     https://ksuite-site-mc2r9oxs7-ksuite-projects.vercel.app     ● Ready     Production      6s           agentmedev     
+  54m     https://ksuite-site-mc2r9oxs7-ksuite-projects.vercel.app     ● Ready     Production      6s           agentmedev     
 
 https://ksuite-site-mc2r9oxs7-ksuite-projects.vercel.app
 On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ksuite-site-status.log
 
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.gitignore
-	ksuite-site-status.log
-
+no changes added to commit (use "git add" and/or "git commit -a")
